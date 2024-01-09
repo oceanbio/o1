@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://docs.librechat.ai">
-    <img src="docs/assets/LibreChat.svg" height="256">
+    <img src="docs/assets/o1chat_logo.svg" height="256">
   </a>
   <a href="https://docs.librechat.ai">
     <h1 align="center">o1Chat</h1>
